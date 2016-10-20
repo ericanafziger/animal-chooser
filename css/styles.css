@@ -1,0 +1,12 @@
+body {
+  background-color: #8fad98;
+}
+#kermit, #fozzy, #animal {
+  display: none;
+}
+.jumbotron {
+  background-color: #e57520;
+  color: white;
+  text-align: center;
+
+}
